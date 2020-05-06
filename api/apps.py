@@ -1,3 +1,8 @@
+"""The apps included in the api
+
+
+"""
+
 from django.apps import AppConfig
 
 
